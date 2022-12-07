@@ -1,6 +1,23 @@
 {
 	"name": "raw_ga4_core",
 	"properties": {
+		"activities": [
+			{
+				"name": "Set variable1",
+				"type": "SetVariable",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "demo",
+					"value": "demo"
+				}
+			}
+		],
+		"variables": {
+			"demo": {
+				"type": "String"
+			}
+		},
 		"folder": {
 			"name": "01_raw_source"
 		},
