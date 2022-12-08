@@ -61,7 +61,7 @@
 						"type": "DatasetReference",
 						"parameters": {
 							"application": "sharedknow",
-							"filename": "users\\sk_users"
+							"filename": "users/sk_users"
 						}
 					}
 				],
@@ -71,7 +71,7 @@
 						"type": "DatasetReference",
 						"parameters": {
 							"application": "sharedknow",
-							"filename": "users\\sk_users"
+							"filename": "users/sk_users"
 						}
 					}
 				]
