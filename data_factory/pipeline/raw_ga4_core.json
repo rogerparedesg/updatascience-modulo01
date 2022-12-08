@@ -13,7 +13,7 @@
 				}
 			},
 			{
-				"name": "source_to_raw",
+				"name": "copy_data",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
